@@ -1,3 +1,4 @@
+// ejercicio 
 
 let nota1 = prompt ("ingrese la primera nota");
 let int_nota1 =parseInt(nota1);
